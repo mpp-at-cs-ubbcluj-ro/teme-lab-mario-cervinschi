@@ -1,0 +1,16 @@
+04 Mar 2025 08:51:42,647 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 08:51:42,647 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:51:42,647 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 08:51:42,647 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:52:33,253 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 08:52:33,260 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:52:33,269 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 08:52:33,270 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:56:37,700 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 08:56:37,716 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:56:37,716 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 08:56:37,716 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:56:54,577 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=1, ownerName='A A', model='Asus', date='13/10/2020', problemDescription='Broken display'
+04 Mar 2025 08:56:54,577 TRACE repository.AbstractRepository 29 add - Exit
+04 Mar 2025 08:56:54,577 TRACE repository.AbstractRepository 21 add - Enter  parameters ID=2, ownerName='B B', model='Acer', date='10/10/2020', problemDescription='Faulty keyboard'
+04 Mar 2025 08:56:54,577 TRACE repository.AbstractRepository 29 add - Exit
